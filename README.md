@@ -2,7 +2,7 @@
 
 Hello everyone, My name is Gauri Sawant.
 
-click on this link to : github.com/GauriCo/codePlane.git 
+click on this link to get my GitHub page : github.com/GauriCo/codePlane.git 
 
 Helping Hands Against Covid-19
 
